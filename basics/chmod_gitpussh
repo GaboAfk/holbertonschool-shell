@@ -1,8 +1,5 @@
 #!/bin/bash
-echo "name file?"
-read $file
-chmod u+x $file
-git add $file
+git add .
 echo "commit?"
 read $commit
 git commit -m '$commit'

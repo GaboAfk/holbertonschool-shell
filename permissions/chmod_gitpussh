@@ -1,6 +1,4 @@
 #!/bin/bash
-read $file
-chmod u+x $file
 git add .
 echo "commit?"
 read $commit

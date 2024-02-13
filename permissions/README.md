@@ -1,0 +1,1 @@
+permisos random equisde
